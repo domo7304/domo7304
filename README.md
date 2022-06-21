@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B993D6,100:8CA6DB&height=240&section=header&text=Dowon%20Lee&descAlignY=55&animation=fadeIn&fontAlignY=36&fontColor=f7f5f5&fontSize=80)
 <div align='center'>
-  <h33 align='center'> 👋 안녕하세요 성장하는 개발자 이도원입니다! </h2>
+  <h3 align='center'> 👋 안녕하세요 성장하는 개발자 이도원입니다! </h3>
   <h3 align='center'>🛠 Tech Stack 🛠</h3>
   <p>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
