@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:B993D6,100:8CA6DB&height=240&section=header&text=Dowon%20Lee&descAlignY=55&animation=fadeIn&fontAlignY=36&fontColor=f7f5f5&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:B993D6,100:8CA6DB&height=240&section=header&text=Dowon%20Lee&descAlignY=55&animation=fadeIn&fontAlignY=36&fontColor=ffffff&fontSize=80)
 <div align='center'>
   <h3 align='center'> 👋 안녕하세요 성장하는 개발자 이도원입니다! </h3>
   <h3 align='center'>🛠 Tech Stack 🛠</h3>
