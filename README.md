@@ -11,7 +11,7 @@
   </p>
   <h3 align='center'>:pencil2: My Tech Blog :pencil2:</h3>
   <p>
-    <a href="https://my-codinglog.tistory.com"><img src="https://img.shields.io/badge/Tistory Blog-1287B1?style=flat&logo=Tistory&logoColor=white"/></a>
+    <a href="https://my-codinglog.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory Blog-1287B1?style=flat&logo=Tistory&logoColor=white"/></a>
   </p>
   <h3>:fire: Stats :fire:</h3>
   
