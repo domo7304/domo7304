@@ -9,6 +9,10 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   </p>
+  <h3 align='center'>:pencil2: My Tech Blog :pencil2:</h3>
+  <p>
+    <a href="https://my-codinglog.tistory.com"><img src="https://img.shields.io/badge/Tistory Blog-1287B1?style=flat&logo=Tistory&logoColor=white"/></a>
+  </p>
   <h3>:fire: Stats :fire:</h3>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=domo7304&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
